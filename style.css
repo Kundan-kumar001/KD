@@ -13,6 +13,7 @@ p{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    width: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -98,6 +99,7 @@ p{
 
 .abt3{
     margin-top: 40px;
+    margin-right: 30px;
      
 }
 

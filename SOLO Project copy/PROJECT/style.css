@@ -1,0 +1,119 @@
+body{
+    text-align: center;
+    background: #C4CAC7;
+    font-family: "Orbitron", sans-serif;    
+}
+
+p{
+    font-style: italic;
+}
+
+.header{
+    background-image: url("images/Front.jpg");
+    background-size: cover;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#line1{
+    background: #000000;
+    color: #B3B3B3;
+    margin-top: 100px;
+    border-radius: 5px; 
+    padding: 10px 7px 10px 7px;
+    opacity: 0.9;   
+}
+
+#line2{
+    background: #000000;
+    color: #B3B3B3;
+    padding: 5px 10px;
+    margin-bottom: 80px;
+    border-radius: 5px;
+    padding: 10px 7px 10px 7px;
+    opacity: 0.7;     
+}
+
+.journey{
+    display: flex;
+    padding: 50px;    
+}
+
+.image{
+    width: 220px;
+    height: 165px;
+    border: 1px solid white;
+    border-radius: 100%;    
+}
+
+.tomb{
+    background-image: url("images/Tomb.jpg");
+    background-size: 270px;
+      
+}
+
+#tomb1:hover{
+    background-image: url("images/Sasaram_view.jpg");
+    background-size: cover;
+        
+}
+
+.water{
+    background-image: url("images/Tutla.jpg");
+    background-size: 270px;
+}  
+
+#water1:hover{
+    background-image: url("images/Tutla2.avif");
+    background-size: cover;
+        
+}
+
+.fall{
+    background-image: url("images/Manjhar.jpeg");
+    background-size: 270px;
+      
+}
+
+#fall1:hover{
+    background-image: url("images/manjhar22.jpg");
+    background-size: cover;
+        
+}
+
+.abt1{
+    margin-top: 40px;
+    margin-right: 40px;
+    padding-right: 100px;
+}
+
+.abt2{
+    margin-top: 40px;
+    margin-right: 40px;
+    padding-right: 140px;
+}
+
+.abt3{
+    margin-top: 40px;
+     
+}
+
+.guide{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin: 100px auto;
+    color: wheat;
+    text-align: center;
+    background: #191F1F;
+    border-radius: 8px;
+    border-bottom: 6px solid #d8cefe;   
+}  
+
+#pro{
+    border-radius: 30px;
+}
+
